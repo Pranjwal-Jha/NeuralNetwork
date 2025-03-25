@@ -1,0 +1,15 @@
+artifact_uri: file:///home/pranj/Documents/Visual%20Studio%20Code/jupyter/campusx/mlruns/0/5684dd3e69f44e319d1b1b2d11696144/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5684dd3e69f44e319d1b1b2d11696144
+run_name: capricious-hound-728
+run_uuid: 5684dd3e69f44e319d1b1b2d11696144
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742473451156
+status: 1
+tags: []
+user_id: pranj

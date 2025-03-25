@@ -1,0 +1,15 @@
+artifact_uri: file:///home/pranj/Documents/Visual%20Studio%20Code/jupyter/campusx/mlruns/0/cf9e99a3ce5d4f24b13b499cfa556ebb/artifacts
+end_time: 1742474143796
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cf9e99a3ce5d4f24b13b499cfa556ebb
+run_name: agreeable-vole-534
+run_uuid: cf9e99a3ce5d4f24b13b499cfa556ebb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742474143791
+status: 3
+tags: []
+user_id: pranj
